@@ -22,12 +22,22 @@
         <div class="sidebar-header">
             <img src="assets/img/logo-symfony.png" alt="logo-symfony" class="img-responsive">
         </div>
-        <a class="nav-link" href="#"><i class="fas fa-tools"></i>Setup</a>
-        <a class="nav-link" href="#"><i class="fas fa-upload"></i>Mise en prod</a>
-        <a class="nav-link" href="#"><i class="fas fa-cogs"></i>CMD utiles</a>
+        <a class="nav-link" href="index.php?setup"><i class="fas fa-tools"></i>Setup</a>
+        <a class="nav-link" href="index.php?prod"><i class="fas fa-upload"></i>Mise en prod</a>
+        <a class="nav-link" href="index.php?fosuserbundle"><i class="fas fa-users"></i>FOSUSER Bundle</a>
+        <a class="nav-link" href="index.php?multilingue"><i class="fas fa-language"></i>Multilingue</a>
+        <a class="nav-link" href="index.php?fixture"><i class="fas fa-database"></i>Fixture</a>
+        <a class="nav-link" href="index.php?test"><i class="fas fa-tasks"></i>Test</a>
+        <a class="nav-link" href="index.php?service"><i class="fas fa-puzzle-piece"></i>Service</a>
+        <a class="nav-link" href="index.php?cmd"><i class="fas fa-cogs"></i>CMD utiles</a>
 	</nav>
     <main id="content-page">
-
+        <?php
+            $page= getenv("QUERY_STRING");
+            if($page=="")
+                $page="accueil";
+            include $page.".php";
+        ?>
     </main>
 </body>
 
