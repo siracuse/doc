@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c578e6e0-3064-4624-a753-95250d98aa63" name="Default Changelist" comment="" />
+    <list default="true" id="c578e6e0-3064-4624-a753-95250d98aa63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd.php" beforeDir="false" afterPath="$PROJECT_DIR$/cmd.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/fixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fosuserbundle.php" beforeDir="false" afterPath="$PROJECT_DIR$/fosuserbundle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod.php" beforeDir="false" afterPath="$PROJECT_DIR$/prod.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -71,6 +80,8 @@
       <workItem from="1574105403437" duration="3372000" />
       <workItem from="1578307775114" duration="60000" />
       <workItem from="1578317194012" duration="5617000" />
+      <workItem from="1578324233271" duration="3379000" />
+      <workItem from="1578410742736" duration="505000" />
     </task>
     <servers />
   </component>
