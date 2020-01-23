@@ -17,13 +17,17 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/font-awesome.css">
 
+    <link rel="icon" type="image/png" href="assets/img/favicon.png" />
+
 <body>
 	<nav class="nav flex-column" id="sidebar">
         <div class="sidebar-header">
-            <img src="assets/img/logo-symfony.png" alt="logo-symfony" class="img-responsive">
+            <img src="assets/img/logo.png" alt="logo-symfony" class="img-responsive">
         </div>
         <a class="nav-link" href="index.php?setup"><i class="fas fa-tools"></i>Setup</a>
+        <a class="nav-link" href="index.php?review"><i class="fas fa-search"></i>Review</a>
         <a class="nav-link" href="index.php?prod"><i class="fas fa-upload"></i>Mise en prod</a>
+        <hr>
         <a class="nav-link" href="index.php?fosuserbundle"><i class="fas fa-users"></i>FOSUSER Bundle</a>
 <!--        <a class="nav-link" href="index.php?multilingue"><i class="fas fa-language"></i>Multilingue</a>-->
         <a class="nav-link" href="index.php?fixture"><i class="fas fa-database"></i>Fixture</a>
