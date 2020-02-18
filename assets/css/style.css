@@ -61,11 +61,14 @@ pre {
     color: #F92672 ;
 }
 .green {
-    color : #A6E22E;
+    color: #A6E22E;
 }
 .orange {
-    color : #FD971F;
+    color: #FD971F;
 }
 .gray {
     color: #75715E;
+}
+.yellow {
+    color: #FFD866;
 }
