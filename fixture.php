@@ -35,7 +35,4 @@
     <li class="mb-2">Commande pour exécuter la fixture :</li>
     <pre><code>> <span class="red">php bin/console</span> doctrine:fixtures:load</code></pre>
 
-
 </ul>
-
-
