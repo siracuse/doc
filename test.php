@@ -67,4 +67,22 @@
     }
 }
         </code></pre>
+
+    <br><br>
+    <li class="title-cmd mb-2">Tester les redirections ( /admin ) :</li>
+    <pre><code>
+<span class="red">namespace</span> HomeBundle\Tests\Controller;
+
+<span class="red">use</span> Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
+
+<span class="red">class</span> DefaultControllerTest <span class="red">extends</span> WebTestCase
+{
+    <span class="red">public function</span> <span class="green">testRedirect</span>()
+    {
+        $client <span class="red">= self::</span><span class="green">createClient</span>();
+        $client<span class="red">-></span><span class="green">request</span>(<span class="yellow">'GET'</span>, <span class="yellow">'/fr/admin'</span>);
+        $this<span class="red">-></span><span class="green">assertTrue</span>($client<span class="red">-></span>getResponse()<span class="red">-></span><span class="green">isRedirect</span>());
+    }
+}
+        </code></pre>
 </ul>
