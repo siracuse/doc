@@ -1,5 +1,5 @@
 <h3 >Les Fixtures</h3>
-<p class="mb-5 ">Documentation : <a href="https://symfony.com/doc/3.0/bundles/DoctrineFixturesBundle/index.html" target="_blank"> Symfony - DoctrineFixturesBundle</a></p>
+<p class="mb-5 ">Documentation : <a href="https://symfony.com/doc/3.0/bundles/DoctrineFixturesBundle/index.html" target="_blank"> SYMFONY - DoctrineFixturesBundle</a></p>
 
 <ul class="checklist-prod px-3">
 

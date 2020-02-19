@@ -15,7 +15,7 @@
 </ul>
 
 <div class="title-cmd mb-2">Création d'un bundle :</div>
-<pre><code>> php bin/console generate:bundle</code></pre>
+<pre><code>> <span class="red">php bin/console</span> generate:bundle</code></pre>
 
 
 <div class="title-cmd mb-2">À faire après la création du premier bundle :</div>
