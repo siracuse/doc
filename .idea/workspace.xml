@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c578e6e0-3064-4624-a753-95250d98aa63" name="Default Changelist" comment="" />
+    <list default="true" id="c578e6e0-3064-4624-a753-95250d98aa63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +85,8 @@
       <workItem from="1582031196677" duration="2512000" />
       <workItem from="1582102640911" duration="4661000" />
       <workItem from="1590572158213" duration="674000" />
+      <workItem from="1590672391123" duration="92000" />
+      <workItem from="1590672726596" duration="8000" />
     </task>
     <servers />
   </component>
@@ -90,18 +94,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2660" y="294" key="FileChooserDialogImpl" timestamp="1582032713713">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1579777091766" />
-    <state x="2660" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582032713713" />
-    <state x="795" y="464" key="NewPhpFileDialog" timestamp="1579772051869">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1590672732591">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="795" y="464" key="NewPhpFileDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1579772051869" />
-    <state x="2381" y="183" key="SettingsEditor" timestamp="1582031251384">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2381" y="183" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582031251384" />
+    <state x="740" y="295" key="FileChooserDialogImpl/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1590672732591" />
   </component>
 </project>
