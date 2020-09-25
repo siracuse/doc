@@ -15,7 +15,7 @@
     <li>Attribuer le droit "777" sur le dossier <code>/var</code></li>
     <li>Mettre à jour le <code>parameters.yml</code> dans le <code>/app/config</code></li>
     <li class="mb-2">Génération des vendor :</li>
-    <pre><code>&gt; <span class="red">php bin/console</span> composer install</code></pre>
+    <pre><code>&gt; <span class="red">php</span> composer install</code></pre>
     <li class="mb-2">Création de la base de données :</li>
     <pre><code>&gt; <span class="red">php bin/console</span> doctrine:database:create</code></pre>
     <li class="mb-2">Création des tables :</li>

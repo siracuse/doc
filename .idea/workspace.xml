@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c578e6e0-3064-4624-a753-95250d98aa63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+=======
+>>>>>>> 2ec89f4757bdf3d26a96c417e5957e4450d330e2
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +88,16 @@
       <workItem from="1579777064376" duration="438000" />
       <workItem from="1582031196677" duration="2512000" />
       <workItem from="1582102640911" duration="4661000" />
+<<<<<<< HEAD
       <workItem from="1600954903721" duration="21000" />
       <workItem from="1600954925470" duration="137000" />
       <workItem from="1600956977682" duration="628000" />
       <workItem from="1601024934979" duration="272000" />
+=======
+      <workItem from="1590572158213" duration="674000" />
+      <workItem from="1590672391123" duration="92000" />
+      <workItem from="1590672726596" duration="8000" />
+>>>>>>> 2ec89f4757bdf3d26a96c417e5957e4450d330e2
     </task>
     <servers />
   </component>
@@ -96,9 +105,16 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1600955061728">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1600955061728" />
+=======
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1590672732591">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1590672732591" />
+>>>>>>> 2ec89f4757bdf3d26a96c417e5957e4450d330e2
   </component>
 </project>

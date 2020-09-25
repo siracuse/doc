@@ -29,6 +29,8 @@
             <li>Supprimer les templates twig inutiles</li>
             <li>Supprimer les <code>parameters</code> inutiles dans config.yml</li>
             <li>Supprimer le fichier <code>todo.txt</code></li>
+            <li>Revoir les routes <code>FOSUSer</code></li>
+            <li>Nommer le subject dans <code>config_prod.yml</code></li>
 
         </ul>
 
