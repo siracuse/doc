@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c578e6e0-3064-4624-a753-95250d98aa63" name="Default Changelist" comment="" />
+    <list default="true" id="c578e6e0-3064-4624-a753-95250d98aa63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -81,6 +85,10 @@
       <workItem from="1579777064376" duration="438000" />
       <workItem from="1582031196677" duration="2512000" />
       <workItem from="1582102640911" duration="4661000" />
+      <workItem from="1600954903721" duration="21000" />
+      <workItem from="1600954925470" duration="137000" />
+      <workItem from="1600956977682" duration="628000" />
+      <workItem from="1601024934979" duration="272000" />
     </task>
     <servers />
   </component>
@@ -88,18 +96,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2660" y="294" key="FileChooserDialogImpl" timestamp="1582032713713">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1579777091766" />
-    <state x="2660" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582032713713" />
-    <state x="795" y="464" key="NewPhpFileDialog" timestamp="1579772051869">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1600955061728">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="795" y="464" key="NewPhpFileDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1579772051869" />
-    <state x="2381" y="183" key="SettingsEditor" timestamp="1582031251384">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2381" y="183" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582031251384" />
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1600955061728" />
   </component>
 </project>
